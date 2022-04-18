@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calorie Calculator</string>
+    <string name="login_failed">Username or password is incorrect.\nPlease try again.</string>
+    <string name="account">Jiaxiang</string>
+    <string name="password">123456</string>
+</resources>
+
+<!-- TODO -->
